@@ -1,7 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "@fastly/js-compute": "^1.7.1",
+    "@fastly/js-compute": "^3.0.0",
     "lodash": "^4.17.21"
   },
   "scripts": {
