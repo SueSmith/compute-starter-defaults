@@ -56,7 +56,7 @@ async function handleRequest(_event) {
 
   //Get the origin response
   let backendResponse = await fetch(req, {
-    backend: "glitch",
+    backend: "origin_0",
   });
 
   // We can find out which pop delivered the response
