@@ -17,5 +17,6 @@ name = "Compute starter kit for Glitch"
 
     [setup.backends.origin_0]
       address = "glitch-hello-website.glitch.me"
+      override_host = "glitch-hello-website.glitch.me"
       description = "Glitch origin"
       port = 443
